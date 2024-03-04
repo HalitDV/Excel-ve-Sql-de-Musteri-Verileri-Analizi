@@ -1,4 +1,5 @@
-# Eklediğimiz müşteriler tablosundaki verilerin Excel pivot table'da spesifik analizlerini yapıyoruz.Sonrasında aynı verileri kullanarak aynı analizleri SQL'de de yapıyoruz.
+# Müşteri Verileri Analizi
+Eklediğimiz müşteriler tablosundaki verilerin Excel pivot table'da spesifik analizlerini yapıyoruz.Sonrasında aynı verileri kullanarak aynı analizleri SQL'de de yapıyoruz.
 # Kullanılan Programlar
 Excel
 MS SQL
